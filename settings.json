@@ -1,0 +1,21 @@
+{
+    "temp_units": "Celcius",
+    "def_location": [
+        "London",
+        "GB"
+    ],
+    "fav_locations": [
+        [
+            "London",
+            "GB"
+        ],
+        [
+            "New York",
+            "US"
+        ],
+        [
+            "Tel Aviv",
+            "IL"
+        ]
+    ]
+}
