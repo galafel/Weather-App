@@ -16,6 +16,18 @@
         [
             "Tel Aviv",
             "IL"
+        ],
+        [
+            "Berlin",
+            "DE"
+        ],
+        [
+            "Zurich",
+            "CH"
+        ],
+        [
+            "Tokyo",
+            "JP"
         ]
     ]
 }

@@ -16,3 +16,7 @@ To run the script, execute:
 python weather.py
 ```
 
+Tu run the streamlit script, execute:
+```
+streamlit run .\app.py
+```
